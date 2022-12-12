@@ -6,12 +6,12 @@
 //
 
 import SwiftUI
-
+import AVKit
 @main
 struct Streaming_AppApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            VideosListView()
         }
     }
 }

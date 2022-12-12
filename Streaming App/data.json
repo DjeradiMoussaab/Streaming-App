@@ -1,0 +1,71 @@
+[
+  {
+    "id": 1,
+    "name": "sporty lifestyle young active african american woman hiking",
+    "description": "Sporty lifestyle. Young active african american woman hiking in forest with walking sticks, enjoying nature, follow shot",
+    "isFavorite": true,
+    "streams": [
+      {
+        "resolution": "p360",
+        "streamURL": "https://d142uv38695ylm.cloudfront.net/videos/promo/allesneu.land-promo-trailer-360p.m3u8"
+      },
+      {
+        "resolution": "p7200",
+        "streamURL": "https://d142uv38695ylm.cloudfront.net/videos/promo/allesneu.land-promo-trailer-720p.m3u8"
+      },
+      {
+        "resolution": "p1080",
+        "streamURL": "https://d142uv38695ylm.cloudfront.net/videos/promo/allesneu.land-promo-trailer-1080p.m3u8"
+      }
+    ],
+    "duration": "00:29",
+    "dateCreated": "23 Dec 2022",
+    "thumbnail": "https://images.pexels.com/photos/15286/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=1600"
+  },
+  {
+    "id": 2,
+    "name": "Larch forest with sunlight and shadows at sunrise",
+    "description": "The evening sun cast long shadows on the ground. The slanting rays of the setting sun gave a warm orange tinge to the sky. The sky was ablaze with the fire of the setting sun. The night sky was aglow with bright city lights",
+    "isFavorite": false,
+    "streams": [
+      {
+        "resolution": "p360",
+        "streamURL": "https://d142uv38695ylm.cloudfront.net/videos/promo/allesneu.land-promo-trailer-360p.m3u8"
+      },
+      {
+        "resolution": "p7200",
+        "streamURL": "https://d142uv38695ylm.cloudfront.net/videos/promo/allesneu.land-promo-trailer-720p.m3u8"
+      },
+      {
+        "resolution": "p1080",
+        "streamURL": "https://d142uv38695ylm.cloudfront.net/videos/promo/allesneu.land-promo-trailer-1080p.m3u8"
+      }
+    ],
+    "duration": "01:28",
+    "dateCreated": "23 Dec 2022",
+    "thumbnail": "https://images.pexels.com/photos/3408744/pexels-photo-3408744.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+  },
+  {
+    "id": 3,
+    "name": "Beautiful Waterfall in Forest",
+    "description": "Use emotion-filled adjectives, such as majestic, endless, inspirational, glowing, romantic, serene or captivating to describe the sunset",
+    "isFavorite": false,
+    "streams": [
+      {
+        "resolution": "p360",
+        "streamURL": "https://d142uv38695ylm.cloudfront.net/videos/promo/allesneu.land-promo-trailer-360p.m3u8"
+      },
+      {
+        "resolution": "p7200",
+        "streamURL": "https://d142uv38695ylm.cloudfront.net/videos/promo/allesneu.land-promo-trailer-720p.m3u8"
+      },
+      {
+        "resolution": "p1080",
+        "streamURL": "https://d142uv38695ylm.cloudfront.net/videos/promo/allesneu.land-promo-trailer-1080p.m3u8"
+      }
+    ],
+    "duration": "00:18",
+    "dateCreated": "23 Dec 2022",
+    "thumbnail": "https://images.pexels.com/photos/2662116/pexels-photo-2662116.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+  }
+]
